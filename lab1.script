@@ -1,0 +1,29 @@
+Script started on 2016年03月14日 (週一) 21時56分22秒
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ whoami;pwd
+F74041161
+/home/F74041161
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ /[Kgit config/
+git: 'config/' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ git config/ /[C
+error: key does not contain a section: /
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ git config /[C/[K[K-\[K|
+>  gitclonehttps://github.com/<your githubaccount>/lab1.git[1P
+bash: your: No such file or directory
+error: key does not contain a section: -
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ git config -| gitclonehttps://github.com/<your githubaccountt>/lab1.git[A]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C gitconfig-l[1Pgitconfig-l[C[C[C[C[C config-l[C[C[C[C[C[C[C -l[C[C
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$  gitclonehttps://github.com/<your githubaccount>/lab1.git[1P[C[C[C[C[1@ [C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P githubaccount>/lab1.git[1Pgithubaccount>/lab1.git[1Pithubaccount>/lab1.git[1Pthubaccount>/lab1.git[1Phubaccount>/lab1.git[1Pubaccount>/lab1.git[1Pbaccount>/lab1.git[1Paccount>/lab1.git[1Pccount>/lab1.git[C[1Pount>/lab1.git[1Pount>/lab1.git[1Punt>/lab1.git[1Pnt>/lab1.git[1Pt>/lab1.git[1P>/lab1.gitw>/lab1.gita>/lab1.gitr>/lab1.gitr>/lab1.gite>/lab1.gitn>/lab1.gita>/lab1.gitn>/lab1.gits>/lab1.gito>/lab1.gitn>/lab1.git[1Pwarrenanson>/lab1.git[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': warrenason   nson
+Password for 'https://warrenanson@github.com': 
+error: The requested URL returned error: 403 while accessing https://github.com/warrenanson/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ git clone https://github.com/warrenanson/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74041161@2015cpp: ~F74041161@2015cpp:~$ wa[K[Kexit
+
+Script done on 2016年03月14日 (週一) 22時10分45秒
